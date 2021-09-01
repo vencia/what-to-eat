@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 .idea/
-chromedriver_linux64
+# chromedriver_linux64
